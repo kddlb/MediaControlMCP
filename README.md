@@ -16,3 +16,5 @@ MCP server for your stochastic parrot/AI partner(!) to talk to your Windows medi
   }
 }
 ```
+
+Requires .NET 10.
